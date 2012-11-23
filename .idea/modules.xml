@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hudae.iml" filepath="$PROJECT_DIR$/hudae.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hudae-grailsPlugins.iml" filepath="$PROJECT_DIR$/hudae-grailsPlugins.iml" />
     </modules>
   </component>
 </project>

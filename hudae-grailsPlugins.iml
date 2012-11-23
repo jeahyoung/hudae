@@ -72,14 +72,12 @@
     <content url="file://$USER_HOME$/.grails/2.1.1/projects/hudae/plugins/zipped-resources-1.0">
       <sourceFolder url="file://$USER_HOME$/.grails/2.1.1/projects/hudae/plugins/zipped-resources-1.0/grails-app/i18n" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="1.6" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="grails-2.1.1" level="application" />
     <orderEntry type="module-library" exported="">
       <library name="Grails User Library (hudae-grailsPlugins)">
-        <CLASSES>
-          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.liquibase/liquibase-core/jars/liquibase-core-2.0.5.jar!/" />
-        </CLASSES>
+        <CLASSES />
         <JAVADOC />
         <SOURCES />
       </library>
